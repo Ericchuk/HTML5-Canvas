@@ -1,0 +1,2 @@
+This is my first time getting involve with a canvas, I didn't hav any thought as to how it will work until i started the challenge.
+It took me a while to grasp the logic but i ended up working on it after tutorials
